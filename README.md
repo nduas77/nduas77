@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nduas77
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning a lot of software making
-- 💞️ I’m looking to collaborate on anything concerning softwares
+- 💞️ I’m looking to collaborate on anything concerning AI with Python.
 - 📫 How to reach me nduas77@gmail.com +254728674376 +254720509671 https://github.com/nduas77 
 
 <!---
